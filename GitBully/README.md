@@ -4,6 +4,10 @@
 
 GitBully is a simple yet powerful command-line security tool written in C++. It scans a given Git repository for sensitive information, such as API keys, private keys, passwords, and other credentials that should not be publicly exposed. It checks for both sensitive filenames and sensitive content within files using regex patterns.
 
+---
+## Demo
+
+https://github.com/user-attachments/assets/fcba8c1d-80fd-48ab-ad51-7aaf6dec6336
 
 ---
 
